@@ -239,7 +239,7 @@ pre_install_docker_compose(){
     echo "---------------------------"
     echo
     # Set Setting if the node go downwith panel
-    echo "Setting MysqlPort"
+    echo "sspanel数据库端口"
     read -p "(v2ray_mysqlport (Default 3306):" v2ray_mysqlport
     [ -z "${v2ray_mysqlport}" ] && v2ray_mysqlport=3306
     echo
@@ -248,7 +248,7 @@ pre_install_docker_compose(){
     echo "---------------------------"
     echo
     # Set Setting if the node go downwith panel
-    echo "Setting MysqlUser"
+    echo "sspanel数据库用户名user"
     read -p "(v2ray_myqluser (Default sspanel):" v2ray_myqluser
     [ -z "${v2ray_myqluser}" ] && v2ray_myqluser="sspanel"
     echo
