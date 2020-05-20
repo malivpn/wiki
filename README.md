@@ -7,7 +7,5 @@
     chmod +x install.sh && \
     bash install.sh
 
-
-参考：https://github.com/hulisang/v2ray-sspanel-v3-mod_Uim-plugin/tree/dev?files=1
-如果不会的话可以联系我 @xiaobeiwei （心情好的话）
+如果不会的话可以联系我 https://t.me/xiaobeiwei （心情好的话）
 
