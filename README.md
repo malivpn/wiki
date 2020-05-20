@@ -1,4 +1,5 @@
 # v2ray后端简易汉化：
+# 食用方法 https://github.com/malivpn/wiki/wiki
 
 #### 一键脚本：
     mkdir v2ray-agent  &&  \
